@@ -11,7 +11,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Auditory Cortex Retrograde Tracing (2025). (Version draft) [Data set]. DANDI
+citation: Auditory Cortex retrograde tracing (2025). (Version draft) [Data set]. DANDI
   Archive. https://dandiarchive.org/dandiset/001344/draft
 contributor:
 - awardNumber: 1 RF1 NS 128873-01
@@ -25,18 +25,15 @@ description: 'Retrograde tracing from specific auditory cortical areas and layer
 ethicsApproval: []
 id: DANDI:001344/draft
 identifier: DANDI:001344
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001344/versions/draft/assets/
-name: Auditory Cortex Retrograde Tracing
-protocol: []
+name: Auditory Cortex retrograde tracing
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001344/draft
 version: draft
 wasGeneratedBy: []
