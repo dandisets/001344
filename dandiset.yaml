@@ -20,6 +20,15 @@ contributor:
   roleName:
   - dcite:Funder
   schemaKey: Organization
+- affiliation:
+  - name: University of North Carolina at Chapel Hill
+    schemaKey: Affiliation
+  email: kato@email.unc.edu
+  identifier: 0000-0002-5748-3221
+  name: Kato, Hiroyuki
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2025-02-22T21:46:37.050115+00:00'
 description: 'Retrograde tracing from specific auditory cortical areas and layers
   in mice, corresponding to the data reported in manuscript PMID: 39829930.'
