@@ -51,6 +51,7 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2025-02-22T21:46:37.050115+00:00'
+datePublished: '2025-05-21T23:49:44.619622+00:00'
 description: 'Retrograde tracing from specific auditory cortical areas and layers
   in mice, corresponding to the data reported in manuscript PMID: 39829930.'
 ethicsApproval: []
@@ -62,6 +63,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001344/versions/draft/assets/
 name: 'Cortical Circuits for the integration of short-latency auditory pathways: Auditory
   Cortex retrograde tracing'
+publishedBy:
+  endDate: '2025-05-21T23:49:44.619622+00:00'
+  id: urn:uuid:f2157066-07c9-4474-9f46-078008ca6628
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-05-21T23:49:44.619622+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:37969a52-de66-4ba5-aa33-3b1866379162
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
